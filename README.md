@@ -63,7 +63,7 @@ Usage: zfsbud [OPTION]... SOURCE_POOL/DATASET [SOURCE_POOL/DATASET2...]
 ```
 
 ## Caution
-This script does things. Don't use when tired or drugged.
+This script does things. Use with caution!.
 
 ## Credit
 Created and maintained by Pawel Ginalski (https://gbyte.dev).
